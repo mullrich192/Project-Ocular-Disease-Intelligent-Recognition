@@ -1,5 +1,6 @@
 # Project-Ocular-Disease-Intelligent-Recognition
-Project in the context of the course "Artificial vision" at the UPV in Valencia
+Project in the context of the course "Artificial vision" at the UPV in Valencia.
+
 A detailed description of the code along with the findings can be found in the Jupyter Notebook.
 
 ## Dataset
