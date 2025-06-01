@@ -17,5 +17,5 @@ Pathological Myopia (M),
 Other diseases/abnormalities (O)
 
 ## Project objective
-This project aims to develop a classification model for fundus diseases with creating a robust classifier capable of accurately categorizing the given images into multiple disease types. The data information is in the attached excel file.
+This project aims to develop a classification model for fundus diseases with creating a robust classifier capable of accurately categorizing the given images into multiple disease types.
 
